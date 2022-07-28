@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @TioMephi
+- 👀 I’m interested in learn more and more and put into practice the knowledge acquired.
+- 🌱 I’m currently learning HTML,CSS and JS (The Trinity of Backend).
+- 📫 How to reach me through my email jhonny.danilo@hotmail.com
